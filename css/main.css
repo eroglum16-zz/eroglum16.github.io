@@ -2275,6 +2275,13 @@ input.num-product::-webkit-inner-spin-button {
   line-height: 1;
 }
 
+.discount-text{
+  font-family: Gilroy-Medium;
+  font-size: 16px;
+  text-decoration: line-through; 
+  margin-right: 10px
+}
+
 
 
 
